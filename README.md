@@ -1,2 +1,4 @@
 # etisalat-saas-test
-saas test
+
+This project expose three rest services (Account/Product/Billing)
+
